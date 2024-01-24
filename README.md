@@ -59,7 +59,7 @@ Neptune, the last one, so far away, icy and blue
 ## For Local Developments
 1. run below command to install all dependencies  
 ```
-pip install  singing-bot/requirement.txt
+pip install -r singing-bot/requirement.txt
 ``` 
 2. run below command to start up Flask server 
 ```
